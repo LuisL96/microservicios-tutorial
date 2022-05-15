@@ -7,7 +7,7 @@ spring:
         git:
           username: LuisL96
           password: Lozano96@#
-          default-label: eureka
+          default-label: multiple-instances
           uri: https://github.com/LuisL96/microservicios-tutorial
           search-paths: config-data
   application:
